@@ -9,7 +9,7 @@
 </a>
 </h1>
 
-<h3> 🎓 Programming Enthusiast | Web Development Trainee | ACC – U.S. Embassy Member | Aspiring Software Engineer </h3>
+<h3>  Programming Enthusiast | Web Development Trainee | Active Volunteer | ACC – U.S. Embassy Member | Aspiring Software Engineer </h3>
 
 </div>
 
