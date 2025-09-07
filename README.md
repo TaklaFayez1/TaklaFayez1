@@ -11,6 +11,7 @@
   <a href="mailto:eng.taklafayez@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=taklafayez&style=flat&color=green&label=Profile+Views" alt="Profile Views"/>
 </h1>
 
 <h3> Programming Enthusiast | Web Development Trainee | Volunteer | ACC – U.S. Embassy Member | Aspiring Software Engineer </h3>
@@ -64,26 +65,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taklafayez&layout=compact&theme=tokyonight)  
 
 </div>  
-
----
-
-## 📈 Advanced Stats  
-
-<div align="center" >
-
-<a href="https://github.com/taklafayez">
-
-<img src="https://raw.githubusercontent.com/taklafayez/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/taklafayez/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/taklafayez/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/taklafayez/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-
-</div>
