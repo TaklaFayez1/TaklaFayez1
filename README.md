@@ -9,6 +9,8 @@
 </a>
 </h1>
 
+<h3> 🎓 Programming Enthusiast | Web Development Trainee | ACC – U.S. Embassy Member | Aspiring Software Engineer </h3>
+
 </div>
 
 <hr></hr>
