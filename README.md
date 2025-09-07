@@ -3,11 +3,14 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<h1>Takla Fayez</h1>
+<h1>
+  Takla Fayez  
+  <a href="https://www.linkedin.com/in/takla-fayez-384744324/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</h1>
 
 <h3> Programming Enthusiast | Web Development Trainee | Volunteer | ACC – U.S. Embassy Member | Aspiring Software Engineer </h3>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Takla%20Fayez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/takla-fayez-384744324/)  
 
 </div>
 
