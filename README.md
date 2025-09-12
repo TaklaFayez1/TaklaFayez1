@@ -54,13 +54,4 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 
----
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![Takla's GitHub stats](https://github-readme-stats.vercel.app/api?username=taklafayez&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taklafayez&layout=compact&theme=tokyonight)  
-
-</div>  
